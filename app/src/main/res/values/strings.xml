@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Pixabay Image Search</string>
+  <string name="uploaded_by">Uploaded by: %s</string>
+  <string name="tags">Tags: %s</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="likes">Likes: %s</string>
+  <string name="comments">Comments: %s</string>
+  <string name="downloads">Downloads: %s</string>
+  <string name="confirm_navigation">Confirm navigation</string>
+  <string name="are_you_sure">Are you sure?</string>
+</resources>
